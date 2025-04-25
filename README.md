@@ -38,6 +38,9 @@ pip install mmdet==2.26.0  (一定要3.x版本以下，否则装mmcv-full一定�
 
 pip install mmcv-full==1.6.2 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.10.0/index.html 
 
+## 安装mmtrack包
+pip install mmtrack==0.14.0
+
 
 
 ## 安装MMTracking依赖包
