@@ -1,5 +1,0 @@
-cython
-numpy
-pydantic
-tempfile
-opencv_python
